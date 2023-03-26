@@ -1,0 +1,21 @@
+h1 {
+  color: black;
+}
+.clients-view {
+  padding: 4rem;
+  background-image: "C:/Users/vikne/Documents/GitHub/matrimonix-front/src/assets/images/coffee_paper_bg.jpg";
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.search-box {
+  outline: none;
+  width: 100%;
+  border: 2px solid rgb(0, 0, 0);
+  font-size: 1rem;
+  padding: 1rem;
+  border-radius: .5rem;
+}

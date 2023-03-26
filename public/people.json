@@ -1,0 +1,192 @@
+[
+      {
+        "id": 1,
+        "name": "Tom Cruise",
+        "age": 59,
+        "email": "tomcruise@gmail.com",
+        "phone": "+1-202-555-0165",
+        "address": "Beverly Hills, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/35186/35186_v9_bb.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Brad Pitt",
+        "age": 58,
+        "email": "bradpitt@gmail.com",
+        "phone": "+1-202-555-0120",
+        "address": "Hollywood Hills, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/239853/239853_v9_ba.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Angelina Jolie",
+        "age": 46,
+        "email": "angelinajolie@gmail.com",
+        "phone": "+1-202-555-0143",
+        "address": "Beverly Hills, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/22804/22804_v9_bb.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Leonardo DiCaprio",
+        "age": 47,
+        "email": "leonardodicaprio@gmail.com",
+        "phone": "+1-202-555-0167",
+        "address": "Hollywood Hills, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/19188/19188_v9_bb.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Scarlett Johansson",
+        "age": 37,
+        "email": "scarlettjohansson@gmail.com",
+        "phone": "+1-202-555-0145",
+        "address": "Malibu, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/232903/232903_v9_bb.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Robert Downey Jr.",
+        "age": 57,
+        "email": "robertdowneyjr@gmail.com",
+        "phone": "+1-202-555-0132",
+        "address": "Venice, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/29625/29625_v9_bb.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Jennifer Lawrence",
+        "age": 31,
+        "email": "jenniferlawrence@gmail.com",
+        "phone": "+1-202-555-0141",
+        "address": "Beverly Hills, Los Angeles, California, USA",
+        "image": "https://www.gstatic.com/tv/thumb/persons/500093/500093_v9_ba.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Chris Evans",
+        "age": 40,
+        "email": "chrisevans@gmail.com",
+        "phone": "+1-202-555-0168",
+        "address": "Hollywood Hills, Los Angeles, California, USA",
+        "image": "https://www.indiewire.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-4.37.32-PM.png"
+      },
+      {
+        "id": 8,
+        "name": "Brad Pitt",
+        "age": 57,
+        "email": "brad.pitt@example.com",
+        "phone": "(555) 555-5555",
+        "address": "1234 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/27/196827-050-1C747EE3/Brad-Pitt-2019.jpg"
+        },
+        {
+        "id": 9,
+        "name": "Tom Hanks",
+        "age": 65,
+        "email": "tom.hanks@example.com",
+        "phone": "(555) 555-5555",
+        "address": "5678 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/47/198747-050-71FE3C12/Tom-Hanks-2019.jpg"
+        },
+        {
+        "id": 10,
+        "name": "Meryl Streep",
+        "age": 72,
+        "email": "meryl.streep@example.com",
+        "phone": "(555) 555-5555",
+        "address": "9012 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/84/78184-050-75E6E7A8/Meryl-Streep-2016.jpg"
+        },
+        {
+        "id": 11,
+        "name": "Robert De Niro",
+        "age": 78,
+        "email": "robert.deniro@example.com",
+        "phone": "(555) 555-5555",
+        "address": "3456 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/84/78184-050-75E6E7A8/Meryl-Streep-2016.jpg"
+        },
+        {
+        "id": 12,
+        "name": "Sandra Bullock",
+        "age": 57,
+        "email": "sandra.bullock@example.com",
+        "phone": "(555) 555-5555",
+        "address": "7890 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/95/222295-050-F1D15AFC/Sandra-Bullock-2013.jpg"
+        },
+        {
+        "id": 13,
+        "name": "Will Smith",
+        "age": 53,
+        "email": "will.smith@example.com",
+        "phone": "(555) 555-5555",
+        "address": "1111 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/79/148679-050-6FE0DD6B/Will-Smith.jpg"
+        },
+        {
+        "id": 14,
+        "name": "Angelina Jolie",
+        "age": 46,
+        "email": "angelina.jolie@example.com",
+        "phone": "(555) 555-5555",
+        "address": "2222 Hollywood Blvd, Los Angeles, CA 90028",
+        "image": "https://cdn.britannica.com/41/94541-050-7BFA0124/Angelina-Jolie-2008.jpg"
+        },
+        {
+        "id": 15,
+        "name": "Shah Rukh Khan",
+        "age": 56,
+        "email": "srk@bollywood.com",
+        "phone": "+91 9876543210",
+        "address": "Mannat, Bandstand, Bandra (West), Mumbai - 400050",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/220px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg"
+        },
+        {
+        "id": 16,
+        "name": "Aamir Khan",
+        "age": 56,
+        "email": "aamir@bollywood.com",
+        "phone": "+91 9876543211",
+        "address": "2, Hill View Apartments, Opposite Mehboob Studio, Hill Road, Bandra West, Mumbai, Maharashtra 400050",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aamir_Khan_From_The_Movie_%27Dangal%27.jpg/220px-Aamir_Khan_From_The_Movie_%27Dangal%27.jpg"
+        },
+        {
+        "id": 17,
+        "name": "Salman Khan",
+        "age": 55,
+        "email": "salman@bollywood.com",
+        "phone": "+91 9876543212",
+        "address": "Galaxy Apartments, Byramjee Jeejeebhoy Road, Bandra West, Mumbai, Maharashtra 400050",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Salman_Khan_promoting_Dabangg_3.jpg/220px-Salman_Khan_promoting_Dabangg_3.jpg"
+        },
+        {
+        "id": 18,
+        "name": "Akshay Kumar",
+        "age": 54,
+        "email": "akshay@bollywood.com",
+        "phone": "+91 9876543213",
+        "address": "203 A Wing, Lokhandwala Complex, Andheri (W), Mumbai - 400053",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Akshay_Kumar.jpg/220px-Akshay_Kumar.jpg"
+        },
+        {
+        "id": 19,
+        "name": "Amitabh Bachchan",
+        "age": 79,
+        "email": "amitabh@bollywood.com",
+        "phone": "+91 9876543214",
+        "address": "Jalsa, B/2, Kapol Housing Society, VL Mehta Road, Juhu, Mumbai - 400049",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AmitabhBachchanMarch2018.jpg/220px-AmitabhBachchanMarch2018.jpg"
+        },
+        {
+        "id": 20,
+        "name": "Saif Ali Khan",
+        "age": 51,
+        "email": "saif@bollywood.com",
+        "phone": "+91 9876543215",
+        "address": "Fortune Heights, Bandra West, Mumbai, Maharashtra 400050",
+        "image": "https://static.toiimg.com/photo/msid-76035402/76035402.jpg"
+        }
+    ]
+            
